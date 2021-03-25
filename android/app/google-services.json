@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "319050346418",
+    "project_id": "greenplaterestaurant-279cb",
+    "storage_bucket": "greenplaterestaurant-279cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319050346418:android:4b83e2b315bd6ef14cbeab",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319050346418-54lolcs84s32t0ovu38vck479hpu52p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvatr8RimeSjsl28HrmxaZbRpqZsGyrrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319050346418-54lolcs84s32t0ovu38vck479hpu52p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
